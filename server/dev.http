@@ -1,0 +1,8 @@
+### index
+GET http://localhost:4000/
+
+### new game
+POST http://localhost:4000/new_game
+
+###
+GET http://localhost:4000/tgfxr/ws
